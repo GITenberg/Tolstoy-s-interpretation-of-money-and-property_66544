@@ -1,5 +1,8 @@
 _repo: Tolstoy-s-interpretation-of-money-and-property_66544
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66544-h/images/cover.jpg
 creator:
   author:
     agent_name: Stanoyevich, Milivoy S. (Milivoy Stoyan)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53857
     wikipedia: https://en.wikipedia.org/wiki/Milivoy_Stoyan_Stanoyevich
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66544#Tolstoy-s-interpretation-of-money-and-property
 gutenberg_issued: '2021-10-15'
 identifiers:
   gutenberg: '66544'
